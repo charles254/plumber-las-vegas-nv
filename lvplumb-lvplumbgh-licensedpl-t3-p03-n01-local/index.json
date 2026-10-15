@@ -1,0 +1,26 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T3-P03-N01-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t3-p03-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Paradise & Strip Corridor Commercial & Residential High-Flow Plumbing",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p03-n01-local/",
+  "primaryEntity": "Lead-Free Brass Water Pressure Reducing Valve (PRV) & Expansion Tanks",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p03-n02-local/",
+      "anchor": "Enterprise & Mountain's Edge Plumbing System Upgrades",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/service-areas/summerlin",
+    "https://plumberlasvegasnv.net/services/repiping",
+    "https://plumberlasvegasnv.net/about/",
+    "https://plumberlasvegasnv.net/services/emergency-plumber",
+    "https://plumberlasvegasnv.net/services/toilet-repair",
+    "https://plumberlasvegasnv.net/services/garbage-disposal",
+    "https://plumberlasvegasnv.net/"
+  ]
+}
