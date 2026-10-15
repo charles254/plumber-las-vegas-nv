@@ -1,0 +1,26 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T3-P01-N02-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t3-p01-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Henderson NV Water Heater Maintenance, Expansion Tanks & Scale Defense",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p01-n02-local/",
+  "primaryEntity": "High-Pressure Commercial Hydro Jetting (3,500 PSI) Lateral Scouring",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p02-n01-local/",
+      "anchor": "North Las Vegas Emergency Drain Clearing & Main Sewer Line Triage",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/services/drain-cleaning",
+    "https://plumberlasvegasnv.net/services/sewer-line-repair",
+    "https://plumberlasvegasnv.net/guides/why-sewer-lines-fail-las-vegas",
+    "https://plumberlasvegasnv.net/service-areas/summerlin",
+    "https://plumberlasvegasnv.net/services/repiping",
+    "https://plumberlasvegasnv.net/about/",
+    "https://plumberlasvegasnv.net/"
+  ]
+}
