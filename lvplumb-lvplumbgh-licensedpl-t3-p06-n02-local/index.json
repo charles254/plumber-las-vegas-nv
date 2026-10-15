@@ -1,0 +1,24 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T3-P06-N02-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t3-p06-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Outdoor Hose Bibb, Anti-Siphon Vacuum Breaker & Backflow Prevention",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p06-n02-local/",
+  "primaryEntity": "Outdoor Frost-Proof Quarter-Turn Hose Bibbs & Anti-Siphon Vacuum Breakers",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t1-p00-n01-local/",
+      "anchor": "Plumber Las Vegas NV — Licensed Plumbing Repair & Hard Water Solutions",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/",
+    "https://plumberlasvegasnv.net/about/",
+    "https://plumberlasvegasnv.net/guides/las-vegas-hard-water",
+    "https://plumberlasvegasnv.net/services/water-softener",
+    "https://plumberlasvegasnv.net/guides/do-i-need-a-water-softener"
+  ]
+}
