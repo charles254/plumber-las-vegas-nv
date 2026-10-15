@@ -1,0 +1,26 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T2-P01-N02-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t2-p01-n02-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Las Vegas Drain Cleaning, Rooter Service & High-Pressure Hydro Jetting",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t2-p01-n02-local/",
+  "primaryEntity": "Whole-Home High-Efficiency Ion-Exchange Water Softener Systems",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t2-p01-n03-local/",
+      "anchor": "Slab Leak Electronic Detection & Trenchless Under-Slab Repair in Las Vegas",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/services/water-softener",
+    "https://plumberlasvegasnv.net/guides/do-i-need-a-water-softener",
+    "https://plumberlasvegasnv.net/services/water-heater-repair",
+    "https://plumberlasvegasnv.net/guides/water-heater-lifespan-las-vegas",
+    "https://plumberlasvegasnv.net/services/leak-detection",
+    "https://plumberlasvegasnv.net/guides/slab-leaks-las-vegas",
+    "https://plumberlasvegasnv.net/"
+  ]
+}
