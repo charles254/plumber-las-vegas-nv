@@ -1,0 +1,26 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T3-P02-N01-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t3-p02-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "North Las Vegas Emergency Drain Clearing & Main Sewer Line Triage",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p02-n01-local/",
+  "primaryEntity": "Self-Leveling High-Definition Color Sewer Camera & 512 Hz Sonde Locating",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p02-n02-local/",
+      "anchor": "Spring Valley Slab Leak Triage & PEX Water Line Rerouting",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/services/sewer-line-repair",
+    "https://plumberlasvegasnv.net/guides/why-sewer-lines-fail-las-vegas",
+    "https://plumberlasvegasnv.net/service-areas/summerlin",
+    "https://plumberlasvegasnv.net/services/repiping",
+    "https://plumberlasvegasnv.net/about/",
+    "https://plumberlasvegasnv.net/services/emergency-plumber",
+    "https://plumberlasvegasnv.net/"
+  ]
+}
