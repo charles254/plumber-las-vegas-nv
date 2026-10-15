@@ -1,0 +1,26 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T3-P02-N02-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t3-p02-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Spring Valley Slab Leak Triage & PEX Water Line Rerouting",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p02-n02-local/",
+  "primaryEntity": "Trenchless Cured-in-Place Pipe (CIPP) Structural Epoxy Sewer Relining",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p03-n01-local/",
+      "anchor": "Paradise & Strip Corridor Commercial & Residential High-Flow Plumbing",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/guides/why-sewer-lines-fail-las-vegas",
+    "https://plumberlasvegasnv.net/service-areas/summerlin",
+    "https://plumberlasvegasnv.net/services/repiping",
+    "https://plumberlasvegasnv.net/about/",
+    "https://plumberlasvegasnv.net/services/emergency-plumber",
+    "https://plumberlasvegasnv.net/services/toilet-repair",
+    "https://plumberlasvegasnv.net/"
+  ]
+}
