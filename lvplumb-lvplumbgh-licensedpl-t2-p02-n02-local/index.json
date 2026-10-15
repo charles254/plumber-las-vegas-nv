@@ -1,0 +1,26 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T2-P02-N02-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t2-p02-n02-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Las Vegas Sewer Line Camera Inspection & Trenchless CIPP Relining",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t2-p02-n02-local/",
+  "primaryEntity": "High-Efficiency Condensing Tankless Water Heater Annual Vinegar Descaling",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t2-p02-n03-local/",
+      "anchor": "Whole-House Repiping: Copper to Uponor PEX-a Upgrades in Las Vegas",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/guides/water-heater-lifespan-las-vegas",
+    "https://plumberlasvegasnv.net/services/leak-detection",
+    "https://plumberlasvegasnv.net/guides/slab-leaks-las-vegas",
+    "https://plumberlasvegasnv.net/services/drain-cleaning",
+    "https://plumberlasvegasnv.net/services/sewer-line-repair",
+    "https://plumberlasvegasnv.net/guides/why-sewer-lines-fail-las-vegas",
+    "https://plumberlasvegasnv.net/"
+  ]
+}
