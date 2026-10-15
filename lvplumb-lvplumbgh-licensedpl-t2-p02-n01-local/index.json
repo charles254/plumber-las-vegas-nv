@@ -1,0 +1,26 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T2-P02-N01-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t2-p02-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Whole-Home Water Softeners & Reverse Osmosis Filtration in Las Vegas",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t2-p02-n01-local/",
+  "primaryEntity": "Gas & Electric Water Heater Sediment Flushing & Titanium Powered Anode Rods",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t2-p02-n02-local/",
+      "anchor": "Las Vegas Sewer Line Camera Inspection & Trenchless CIPP Relining",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/services/water-heater-repair",
+    "https://plumberlasvegasnv.net/guides/water-heater-lifespan-las-vegas",
+    "https://plumberlasvegasnv.net/services/leak-detection",
+    "https://plumberlasvegasnv.net/guides/slab-leaks-las-vegas",
+    "https://plumberlasvegasnv.net/services/drain-cleaning",
+    "https://plumberlasvegasnv.net/services/sewer-line-repair",
+    "https://plumberlasvegasnv.net/"
+  ]
+}
