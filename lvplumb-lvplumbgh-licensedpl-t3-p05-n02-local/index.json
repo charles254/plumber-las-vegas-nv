@@ -1,0 +1,24 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T3-P05-N02-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t3-p05-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Gas Line Plumbing, Leak Detection & Appliance Hookups in Las Vegas",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p05-n02-local/",
+  "primaryEntity": "Continuous-Feed Garbage Disposal Mechanical Unjamming & InSinkErator Installations",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p06-n01-local/",
+      "anchor": "Kitchen & Bathroom Faucet Cartridge Replacement & Hard Water Descaling",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/services/garbage-disposal",
+    "https://plumberlasvegasnv.net/services/emergency-plumber",
+    "https://plumberlasvegasnv.net/",
+    "https://plumberlasvegasnv.net/about/",
+    "https://plumberlasvegasnv.net/guides/las-vegas-hard-water"
+  ]
+}
