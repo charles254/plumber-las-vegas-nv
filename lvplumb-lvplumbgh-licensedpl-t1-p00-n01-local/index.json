@@ -1,0 +1,25 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T1-P00-N01-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t1-p00-n01-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Plumber Las Vegas NV — Licensed Plumbing Repair & Hard Water Solutions",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t1-p00-n01-local/",
+  "primaryEntity": "Nevada State Contractors Board (NSCB) C-1 Plumbing & Heating Contractor Licensing",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t1-p00-n02-local/",
+      "anchor": "24/7 Emergency Plumber in Las Vegas NV — Rapid Leak & Drain Triage",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/about/",
+    "https://plumberlasvegasnv.net/",
+    "https://plumberlasvegasnv.net/guides/las-vegas-hard-water",
+    "https://plumberlasvegasnv.net/services/water-softener",
+    "https://plumberlasvegasnv.net/guides/do-i-need-a-water-softener",
+    "https://plumberlasvegasnv.net/services/water-heater-repair"
+  ]
+}
