@@ -1,0 +1,25 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T1-P00-N02-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t1-p00-n02-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "24/7 Emergency Plumber in Las Vegas NV — Rapid Leak & Drain Triage",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t1-p00-n02-local/",
+  "primaryEntity": "Southern Nevada Water Authority (SNWA) Water Smart Conservation & Rebate Standards",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t2-p01-n01-local/",
+      "anchor": "Las Vegas Water Heater Repair, Replacement & Tankless Scaling Prevention",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/",
+    "https://plumberlasvegasnv.net/guides/las-vegas-hard-water",
+    "https://plumberlasvegasnv.net/services/water-softener",
+    "https://plumberlasvegasnv.net/guides/do-i-need-a-water-softener",
+    "https://plumberlasvegasnv.net/services/water-heater-repair",
+    "https://plumberlasvegasnv.net/guides/water-heater-lifespan-las-vegas"
+  ]
+}
