@@ -1,0 +1,24 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T3-P05-N01-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t3-p05-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Garbage Disposal Repair, Jam Clearing & Heavy-Duty Replacement",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p05-n01-local/",
+  "primaryEntity": "Low-Flow High-Efficiency 1.28 GPF WaterSense Toilet Repair & Rebuilding",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p05-n02-local/",
+      "anchor": "Gas Line Plumbing, Leak Detection & Appliance Hookups in Las Vegas",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/services/toilet-repair",
+    "https://plumberlasvegasnv.net/services/garbage-disposal",
+    "https://plumberlasvegasnv.net/services/emergency-plumber",
+    "https://plumberlasvegasnv.net/",
+    "https://plumberlasvegasnv.net/about/"
+  ]
+}
