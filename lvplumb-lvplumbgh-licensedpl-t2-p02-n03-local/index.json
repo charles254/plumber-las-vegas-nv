@@ -1,0 +1,26 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T2-P02-N03-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t2-p02-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Whole-House Repiping: Copper to Uponor PEX-a Upgrades in Las Vegas",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t2-p02-n03-local/",
+  "primaryEntity": "Electronic Ultrasonic Acoustic Ground Microphone Slab Leak Detection",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p01-n01-local/",
+      "anchor": "Summerlin Master-Planned Community Plumbing Care & Pressure Regulators",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/services/leak-detection",
+    "https://plumberlasvegasnv.net/guides/slab-leaks-las-vegas",
+    "https://plumberlasvegasnv.net/services/drain-cleaning",
+    "https://plumberlasvegasnv.net/services/sewer-line-repair",
+    "https://plumberlasvegasnv.net/guides/why-sewer-lines-fail-las-vegas",
+    "https://plumberlasvegasnv.net/service-areas/summerlin",
+    "https://plumberlasvegasnv.net/"
+  ]
+}
