@@ -1,0 +1,24 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T3-P04-N02-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t3-p04-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Toilet Repair, Clog Removal & Low-Flow WaterSense Fixture Installations",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p04-n02-local/",
+  "primaryEntity": "Emergency Main Water Service Line Shutoff Valve Isolation & Restoration",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p05-n01-local/",
+      "anchor": "Garbage Disposal Repair, Jam Clearing & Heavy-Duty Replacement",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/services/emergency-plumber",
+    "https://plumberlasvegasnv.net/services/toilet-repair",
+    "https://plumberlasvegasnv.net/services/garbage-disposal",
+    "https://plumberlasvegasnv.net/",
+    "https://plumberlasvegasnv.net/about/"
+  ]
+}
