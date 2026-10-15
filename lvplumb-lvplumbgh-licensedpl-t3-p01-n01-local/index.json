@@ -1,0 +1,26 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T3-P01-N01-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t3-p01-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Summerlin Master-Planned Community Plumbing Care & Pressure Regulators",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p01-n01-local/",
+  "primaryEntity": "Non-Invasive Overhead Uponor PEX-a Pipe Rerouting & Foundation Protection",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p01-n02-local/",
+      "anchor": "Henderson NV Water Heater Maintenance, Expansion Tanks & Scale Defense",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/guides/slab-leaks-las-vegas",
+    "https://plumberlasvegasnv.net/services/drain-cleaning",
+    "https://plumberlasvegasnv.net/services/sewer-line-repair",
+    "https://plumberlasvegasnv.net/guides/why-sewer-lines-fail-las-vegas",
+    "https://plumberlasvegasnv.net/service-areas/summerlin",
+    "https://plumberlasvegasnv.net/services/repiping",
+    "https://plumberlasvegasnv.net/"
+  ]
+}
