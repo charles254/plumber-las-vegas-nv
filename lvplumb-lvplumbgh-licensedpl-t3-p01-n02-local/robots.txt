@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p01-n02-local/sitemap.xml
