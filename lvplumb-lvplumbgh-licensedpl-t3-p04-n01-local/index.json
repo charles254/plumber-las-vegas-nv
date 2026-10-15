@@ -1,0 +1,24 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T3-P04-N01-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t3-p04-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Centennial Hills Well & Municipal Water Pressure Optimization",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p04-n01-local/",
+  "primaryEntity": "Clark County & City of Las Vegas Uniform Plumbing Code (UPC) Permitting",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t3-p04-n02-local/",
+      "anchor": "Toilet Repair, Clog Removal & Low-Flow WaterSense Fixture Installations",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/about/",
+    "https://plumberlasvegasnv.net/services/emergency-plumber",
+    "https://plumberlasvegasnv.net/services/toilet-repair",
+    "https://plumberlasvegasnv.net/services/garbage-disposal",
+    "https://plumberlasvegasnv.net/"
+  ]
+}
