@@ -1,0 +1,26 @@
+{
+  "nodeCode": "LVPLUMB-LVPLUMBGH-LICENSEDPL-T2-P01-N01-LOCAL",
+  "slug": "lvplumb-lvplumbgh-licensedpl-t2-p01-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Las Vegas Water Heater Repair, Replacement & Tankless Scaling Prevention",
+  "canonical": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t2-p01-n01-local/",
+  "primaryEntity": "Mojave Desert Colorado River Extreme Mineral Water Hardness (280+ PPM / 16 GPG)",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/plumber-las-vegas-nv/lvplumb-lvplumbgh-licensedpl-t2-p01-n02-local/",
+      "anchor": "Las Vegas Drain Cleaning, Rooter Service & High-Pressure Hydro Jetting",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://plumberlasvegasnv.net/guides/las-vegas-hard-water",
+    "https://plumberlasvegasnv.net/services/water-softener",
+    "https://plumberlasvegasnv.net/guides/do-i-need-a-water-softener",
+    "https://plumberlasvegasnv.net/services/water-heater-repair",
+    "https://plumberlasvegasnv.net/guides/water-heater-lifespan-las-vegas",
+    "https://plumberlasvegasnv.net/services/leak-detection",
+    "https://plumberlasvegasnv.net/"
+  ]
+}
